@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercrocess",
+        "uuid": 158340,
+        "checksum": "8r2vh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
